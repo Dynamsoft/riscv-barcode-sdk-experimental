@@ -1,4 +1,6 @@
 # RISC-V Barcode SDK 
+**Version 7.6**
+
 The repository aims to help developers to build `riscv64` barcode reader apps.
 
 ## Download
