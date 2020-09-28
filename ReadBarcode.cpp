@@ -9,7 +9,7 @@ The sample demonstrates how to read barcode from the Linux Command Line.
 #include <stdlib.h>
 #include <string.h>
 #include <sys/time.h>
-#include "../../../include/DynamsoftBarcodeReader.h"
+#include "DynamsoftBarcodeReader.h"
 
 int DecodeFile(CBarcodeReader& reader,const char* pszImageFile,float& fCostTime)
 {
