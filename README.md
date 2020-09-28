@@ -4,7 +4,7 @@
 The repository aims to help developers to build `riscv64` barcode reader apps.
 
 ## Download
-Dynamsoft Barcode Reader library for 64-bit RISC-V: [libDynamsoftBarcodeReader.so](https://www.dynamsoft.com/handle-download?productId=1000003&productVersionId=1000355&productEditionId=1000007&downloadLink=https://download2.dynamsoft.com/dbr/libDynamsoftBarcodeReader.so)
+Dynamsoft Barcode Reader library for 64-bit RISC-V: [libDynamsoftBarcodeReader.so](https://www.dynamsoft.com/handle-download?productId=1000003&productVersionId=1000355&productEditionId=1000007&downloadLink=https://download.dynamsoft.com/test/libDynamsoftBarcodeReader.so)
 
 ## SDK License Key
 Apply for a [free 30-day trial license](https://www.dynamsoft.com/customer/license/trialLicense) from Dynamsoft customer portal.
